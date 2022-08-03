@@ -8,3 +8,4 @@ Export the template string using the default export syntax.
 
 <b>Use Common JS module syntax</b>.
 # greeting-practice
+# greeting-practice
